@@ -264,6 +264,3 @@ winesense-ai/
 - Keep the model artifact, preprocessing logic, and feature order consistent between training and inference.
 - Do not commit virtual environments, API secrets, local caches, or other generated files to GitHub.
 
-## License
-
-Add a license file if you intend to distribute or reuse this project publicly. Until a license is added, all rights remain with the copyright holder.
